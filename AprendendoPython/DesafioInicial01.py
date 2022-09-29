@@ -4,6 +4,7 @@
 # FUNÇÃO print(): Ela é a responsável por imprimir os dados e informar os valores no terminal;
 # MÉTODO split(): permite dividir o conteúdo da variável de acordo com as condições especificadas
 # em cada parâmetro da função ou com os valores predefinidos por padrão;
+
 # TODO: Calcule o ICM da comunicação dos Palatír de Sauron e Saruman, com 2 casas decimais no espaço #em branco abaixo:
 
 # Soluções:
