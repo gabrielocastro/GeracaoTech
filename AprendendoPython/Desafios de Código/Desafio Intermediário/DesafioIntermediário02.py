@@ -5,7 +5,7 @@
 # MÉTODO split(): permite dividir o conteúdo da variável de acordo com as condições especificadas
 # em cada parâmetro da função ou com os valores predefinidos por padrão;
 # while True significa que, enquanto houver entradas, o código após o try continuará sendo executado
-# esquerda ingles / direita frances / nenhuma portugues /  ambas caiu
+# esquerda ingles / direita frances / nenhuma portugues /  ambas caiu.
 # Dado determinada string de entrada reportar a linguagem correta.
 
 momento = " "
