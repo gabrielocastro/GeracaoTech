@@ -6,7 +6,7 @@
 # em cada parâmetro da função ou com os valores predefinidos por padrão;
 # while True significa que, enquanto houver entradas, o código após o try continuará sendo executado
 # esquerda ingles / direita frances / nenhuma portugues /  ambas caiu
-# Dado determinada string de entrada reportar a devida linguagem correta.
+# Dado determinada string de entrada reportar a linguagem correta.
 
 momento = " "
 while momento != "PARE":
