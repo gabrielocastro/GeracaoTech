@@ -4,7 +4,7 @@
 # FUNÇÃO print(): Ela é a responsável por imprimir os dados e informar os valores no terminal;
 # MÉTODO split(): permite dividir o conteúdo da variável de acordo com as condições especificadas
 # em cada parâmetro da função ou com os valores predefinidos por padrão;
-# tODO:  Calcule o salário do funcionário e print o novo salário, bem como o valor de reajuste ganho e o índice reajustado (em porcentagem)
+# TODO:  Calcule o salário do funcionário e print o novo salário, bem como o valor de reajuste ganho e o índice reajustado (em porcentagem)
 # 0 - 600.00 17% / 600.01 - 900.00 13% / 900.01 - 1500.00 12% / 1500.01 - 2000.00 10% / Acima de 2000.00 5%
 
 # Abaixo segue um exemplo de código que você pode ou não utilizar
