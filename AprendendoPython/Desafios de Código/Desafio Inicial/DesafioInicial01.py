@@ -5,7 +5,7 @@
 # MÉTODO split(): permite dividir o conteúdo da variável de acordo com as condições especificadas
 # em cada parâmetro da função ou com os valores predefinidos por padrão;
 
-# tODO: Calcule o ICM da comunicação dos Palatír de Sauron e Saruman, com 2 casas decimais no espaço #em branco abaixo:
+# TODO: Calcule o ICM da comunicação dos Palatír de Sauron e Saruman, com 2 casas decimais no espaço #em branco abaixo:
 
 # Soluções:
 # Solução01: Resolução feita de acordo com o modo de entrada sugerido no desafio.
